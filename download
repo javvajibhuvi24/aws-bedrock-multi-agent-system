@@ -1,0 +1,15 @@
+# ── AWS Settings ──────────────────────────────────────────────────────────────
+AWS_REGION=us-east-1
+PROJECT_NAME=udacity-agentcore
+
+# ── Bedrock Knowledge Base IDs (Task 5) ───────────────────────────────────────
+RETURNS_KB_ID=2W2TVUIS9Z
+SHIPPING_KB_ID=FDY60QN3TG
+WARRANTY_KB_ID=MPS0UCCRWU
+
+# ── AgentCore Runtime (Task 3) ────────────────────────────────────────────────
+AGENTCORE_RUNTIME_ARN=arn:aws:bedrock-agentcore:us-east-1:015823272981:runtime/udacity_agentcore_runtime-IIS2rW3EY1
+
+# ── Guardrail (Task 3) ────────────────────────────────────────────────────────
+GUARDRAIL_ID=or02z593eqbj
+GUARDRAIL_VERSION=1
